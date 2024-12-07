@@ -1,5 +1,7 @@
 # 🎵 Data Mining Project: Spotify Tracks Analysis 🎶
 
+### NB: Before you start reading, most of the material has been lost due to a broke of the HDD. RIP DM1 Project. 😭
+
 ## 📌 Project Overview
 Welcome to my Data Mining project for the **2023/2024 academic year**! This project dives into the **Spotify Tracks Dataset**, uncovering patterns and insights through advanced data mining techniques. We explore tasks like **Data Understanding**, **Clustering**, **Classification**, and **Pattern Mining**, blending analytical rigor with creative exploration. 🌟
 
